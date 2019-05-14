@@ -1,0 +1,19 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Projeto open source para automatizar a busca, download de imagens, busca de textos, edição de imagens e videos e até upload de videos na plataforma Youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gianluska/video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gianluska/video-maker/issues"
+  },
+  "homepage": "https://github.com/Gianluska/video-maker#readme"
+}
